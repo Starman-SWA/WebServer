@@ -1,0 +1,4 @@
+/mnt/f/CLionProjects/WebServer/cmake-build-debug/CMakeFiles/WebServer.dir
+/mnt/f/CLionProjects/WebServer/cmake-build-debug/CMakeFiles/testTimerHeap.dir
+/mnt/f/CLionProjects/WebServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/f/CLionProjects/WebServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
